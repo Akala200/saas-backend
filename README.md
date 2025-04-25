@@ -52,8 +52,8 @@ This backend powers user interaction tracking, content management, and real-time
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/content-recommendation-backend.git
-cd content-recommendation-backend
+git clone https://github.com/Akala200/saas-backend.git
+cd saas-backend
 ```
 
 ### 2. Install Dependencies
